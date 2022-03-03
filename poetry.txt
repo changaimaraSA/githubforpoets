@@ -7,3 +7,7 @@ Yellow
 Green
 Blue
 These are the colors of the rainbow.
+
+Unicorns are beautiful and run on rainbows. 
+They come in all shapes and colors too.
+Lets go!
